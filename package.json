@@ -1,0 +1,32 @@
+{
+  "name": "agentkit-drawer",
+  "version": "1.0.0",
+  "description": "Install AgentKit Drawer kits (AGENTS.md, CLAUDE.md, .cursor/rules, .claude/) without downloading zips.",
+  "type": "module",
+  "bin": {
+    "agentkit-drawer": "src/cli.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "agents.md",
+    "claude.md",
+    "cursor",
+    "cli"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eli-alvarado/agentkit-drawer-cli.git"
+  },
+  "homepage": "https://agentkitdrawer.com"
+}
