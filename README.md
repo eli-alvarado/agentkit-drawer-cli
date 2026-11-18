@@ -2,7 +2,7 @@
 
 One-command installer for AgentKit Drawer kits. Writes `AGENTS.md`, `CLAUDE.md`, `.cursor/rules`, and `.claude/` into this repo. Merges when a file already exists. Paid kit contents are **not** in this package — the CLI downloads them from `dl.agentkitdrawer.com` after a license check.
 
-## Install UX
+## Installation
 
 Free Starter (no key):
 
