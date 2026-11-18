@@ -73,4 +73,6 @@ Buy keys at [agentkitdrawer.com](https://agentkitdrawer.com). The Whole Cabinet 
 - `--dir <path>` — target directory
 - `--registry <url>` — override registry (or `AGENTKIT_REGISTRY`)
 
-This package is zero-dependency and requires Node 18+.
+## Requirements
+
+The CLI requires Node.js 18 or later and has no package dependencies.
