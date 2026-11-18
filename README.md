@@ -51,7 +51,7 @@ npx github:eli-alvarado/agentkit-drawer-cli add starter --dry-run
 
 ## Kits
 
-| id | key? |
+| Kit ID | License key required |
 |---|---|
 | `starter` | no |
 | `one-file` | yes |
