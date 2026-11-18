@@ -23,7 +23,7 @@ export AGENTKIT_KEY=akd_…
 npx github:eli-alvarado/agentkit-drawer-cli add vibe-starter claude-code
 ```
 
-List the registry and refresh what this repo already installed:
+List available kits with `list` or refresh installed kits with `update`:
 
 ```bash
 npx github:eli-alvarado/agentkit-drawer-cli list
